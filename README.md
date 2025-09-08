@@ -30,10 +30,10 @@ The aim of this analysis is to investigate a range of health-related factors and
 ## Project Structure
 
 Diabetes-prediction-system
-- app.py                   (Streamlit frontend + prediction logic)
-- model.pkl                (Trained ML model (binary classifier)
-- requirements.txt          (Dependencies)
-- README.md                 (Project documentation)
+- app.py                                       (Streamlit frontend + prediction logic)
+- diabetes_prediction_model.pkl                 (Trained ML model)
+- requirements.txt                              (Dependencies)
+- README.md                                      (Project documentation)
 
 
 ## References & Acknowledgments
